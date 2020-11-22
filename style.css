@@ -1,0 +1,21 @@
+body {
+    background-color: coral;
+    color: cyan;
+}
+
+.header {
+    color: blue;
+    font-family: cursive;
+}
+
+.second-header {
+    color: darkgreen;
+}
+
+.bold {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.body {
+    color: burlywood;
+}
